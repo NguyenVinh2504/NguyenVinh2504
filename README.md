@@ -16,7 +16,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="400" src="https://preview.redd.it/most-of-the-engineers-right-now-v0-9in29fea8e0b1.jpg?auto=webp&s=dbc4ef9e0cd02e4d08e11568fdd5b06287946167"  />
+<img data-importer="image" align="left" height="400" src="https://raw.githubusercontent.com/NguyenVinh2504/NguyenVinh2504/refs/heads/main/68747470733a2f2f707265766965772e726564642e69742f6d6f73742d6f662d7468652d656e67696e656572732d72696768742d6e6f772d76302d39696e323966656138653062312e6a70673f6175746f3d7765627026733d646263346566396530636430326534643038653131353638.webp"  />
 
 ###
 
