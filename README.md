@@ -1,12 +1,6 @@
 <div data-importer="border">
-  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=My%20name's%20ZinDev&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-<h1 align="center" style="border-bottom: none !important;">
-  My name's ZinDev
-</h1>
 
 ###
 <p align="center">
